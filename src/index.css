@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
-@import "tailwindcss";
+@import 'tailwindcss';
 
-
-@import "tailwindcss";
+@import 'tailwindcss';
 @theme {
-  --color-cream: #FFF8F0;
-  --color-strawberry: #FF6B81;
-  --color-choco: #9F8474;
-  --color-darkChoco: #784E24;
-  --color-vanilla: #9F8474;
-  --color-pastelPink: #FADADD;
-  --color-pastelYellow: #FFFACD;
+  --color-cream: #fff8f0;
+  --color-strawberry: #e37ea3;
+  --color-choco: #9f8474;
+  --color-darkChoco: #784e24;
+  --color-vanilla: #9f8474;
+  --color-pink: #ebb5d6;
+  --color-lightPink: #FFF1F6;
+  --color-pastelYellow: #fffacd;
+  --color-lightGreen: #98cc91;
 
-  --font-title: "Playwrite HU", cursive;
-  --font-body: "Urbanist", sans-serif;
+  --font-title: 'Playwrite HU', cursive;
+  --font-body: 'Urbanist', sans-serif;
 }

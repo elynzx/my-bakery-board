@@ -1,11 +1,11 @@
-import HeaderBar from './components/HeaderBar';
-import ReceiptContainer from './components/ReceiptContainer';
+import HeaderBar from './components/HeaderBar'
+import RecipeContainer from './components/RecipeContainer'
 
 const App = () => {
   return (
-    <div className="bg-cream min-h-screen font-body text-black px-18 py-8">
-        <HeaderBar />
-        <ReceiptContainer />
+    <div className="bg-cream font-body min-h-screen px-60 py-12 text-black">
+      <HeaderBar />
+      <RecipeContainer />
     </div>
   )
 }
